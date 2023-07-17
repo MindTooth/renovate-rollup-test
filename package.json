@@ -2,7 +2,7 @@
   "name": "renovate-rollup-test",
   "version": "0.0.0-set-by-ci",
   "devDependencies": {
-    "@rollup/plugin-json": "5.0.0",
+    "@rollup/plugin-json": "6.0.0",
     "@rollup/plugin-virtual": "2.0.3",
     "rollup": "3.25.3"
   }
